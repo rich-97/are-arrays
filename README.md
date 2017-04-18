@@ -1,7 +1,7 @@
 # are-arrays
 
-[![npm](https://img.shields.io/npm/v/are-objects.svg)](https://www.npmjs.com/package/are-arrays)
-[![npm](https://img.shields.io/npm/dm/are-objects.svg)](https://www.npmjs.com/package/are-arrays)
+[![npm](https://img.shields.io/npm/v/are-arrays.svg)](https://www.npmjs.com/package/are-arrays)
+[![npm](https://img.shields.io/npm/dm/are-arrays.svg)](https://www.npmjs.com/package/are-arrays)
 
 Function for check if all values are arrays.
 
